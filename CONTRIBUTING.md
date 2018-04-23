@@ -1,0 +1,1 @@
+The HORTICUBE offers descriptions of the various data sources and offers the developer of applications a standard way to consult all data. The data can be delivered in various standard codings. This allows developers quickly to create innovation apps and the data can be easily incorporated into ERP systems of companies.
